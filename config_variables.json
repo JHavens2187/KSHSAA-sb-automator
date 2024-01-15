@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scholars-bowl-tournament",
+  "private_key_id": "810c229bfe56cf8c90e9a193c0953f6699dcffd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQClkOSU5Ow+TVhd\nGn5qqMW4iGRYlNqIVpqhk4Orsr8b2sQ8oqwQbRZOKYm1158SabkaPTcWtX3N9IsS\nny1q1YXoUTfGLpMdnbgepPHdPk8tsrV4l14jboUd8svRMr8jM5WHT5ri7BBEhd5Y\njsj2NBcIyGiKyRDZxjBhjlUp4lYpDcT1G5Bx3oG/TspHtgkY9hcH9Ixapvy2e+d+\n35MxSeb2quUZeMkr+37kaseP02V4zIT1dRNp0FB7/zpOL8I9xnA9fO6s77sEQLhs\nYFlgG3pNLd4KG57rIIaa7y+YD9kVUlYSI1Pi2WDfRSnUYv8yWYg2drjWJQR6obvq\nqaXm1mJxAgMBAAECggEATkjwjCaiPeM8gOliFPSwaMy1Bd18ZzLr8rJZc/oUuwr5\n9uHEEhBCl7q0TrMhmAc9ata/EZHHZnbWu3tgcj98DZk5kg+7qClHQdYkNsSbk7QI\ncnjAHmjHsJ15GfWwwuhFL7HIPrv4BS53L9Bz3VZL/e8k31qrCQ3ZGoe+ZQuMSeRh\n9+k/5jAdCxSOc2wiIBhwzMXtPAYwKI828FVYjQTNV3eLukR0cCM8B3WCXBnklmB3\nVOA07HLiJvZZiCvKm3HqA1VPq6wyE0mTTgxrpHgL/LJGyxPZTEMoxFO2yXak3/au\nQ100HwvellUrfwi0oYTzqqJTWQ0PI7Sop3d/J6OusQKBgQDXEG/InQFc2lsX2www\n8qNLg3ZtBzi6kA+MuFY5mFabUXDlDNUr8H9ZEMu8buMdX5GpVlfwlazSSFYpJPgc\nbCMJq/lEOGGhzYfKNyD2YhEcF4C/xPOsHH5x6kXo3h7NN02XkaPbHyshjdjHQ2PJ\nAAMj2Pg3RpOtymjOdrMA/tPMvwKBgQDFFIbWeaBY+uFxhi+ZEJd0iG9/93Aj9Q8j\nfrG5RsGThCQhisVDxkbgtQq45jcoVwxqXXUFYU8GXX3GIL81Z+xAwSu9vtdpOFgv\nrGCVPxvYVomQ5GlO+AjolEWFRVjJ2tEcAKaq2825zED7VPxGAb+IFx/ypWg6oHYo\nNL89L10szwKBgQCUDSCm/k692SP0nDscRyzbAzk3fU00QZAy04OoSpL0gXAyfk8R\n3JIOgl1+7ucyhWQFKweG+8LpUBrgYC7dgiPsuJL0v8uWU6MzNhhfBMu6hwN/ANqu\nlT8GtLxDvwV9SKEFwqEGa8KJatjc9CtxZ6zBtM/LXa60aS8VUumPud2ciQKBgQCv\n/OuHvKa2rpoBAT2h5tIIqwk+cZw/T8eL/8f+1jNoYpjNJxmOsxF5+dEwWcwphso8\ndWZZPpMN8RCui3GT5FBxZs6Dq1a6zCjbsYex3uAjqOtBauarMQzre/Q01T87Sd5v\nrhkm/A9S+hWRGkwIy+jYQyYxTQmtSLsanjekEJaYuwKBgQC/MWEx8m2dnFfY7YPg\nfInnA9Y5xUm5ezjPk+39znQua0hNvBYlyRoQUGFBMvnngDJvsyXRxidR+gzjVqy4\nSPlkOr8PahcbwF+zie+NNRrkn/2xxxZVZyMxr+YEkW1PkpHhBd6U4VP7qVJ08wHw\nn564TM6M7n6KGro2JmBW+0XQiQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kshsaa-sb-automator@scholars-bowl-tournament.iam.gserviceaccount.com",
+  "client_id": "105645116761394938286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kshsaa-sb-automator%40scholars-bowl-tournament.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
